@@ -1,4 +1,4 @@
-	## Partie 1 – MCD (Modèle Conceptuel de Données)
+## Partie 1 – MCD (Modèle Conceptuel de Données)
 
 Le modèle conceptuel de données a été conçu pour représenter les entités et leurs relations dans le système de gestion de la base de données pour le site e-commerce. Ce modèle permet de gérer les utilisateurs, leurs commandes, ainsi que les produits et les paiements associés.
 
